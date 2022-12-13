@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Minimum Falling Path Sum", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum", "MinimumFallingPathSum\MinimumFallingPathSum.csproj", "{45524312-9B8A-44AF-9553-37204CF88E15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum.Tests", "MinimumFallingPathSum.Tests\MinimumFallingPathSum.Tests.csproj", "{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{45524312-9B8A-44AF-9553-37204CF88E15} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
+		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{45524312-9B8A-44AF-9553-37204CF88E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{45524312-9B8A-44AF-9553-37204CF88E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45524312-9B8A-44AF-9553-37204CF88E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45524312-9B8A-44AF-9553-37204CF88E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
