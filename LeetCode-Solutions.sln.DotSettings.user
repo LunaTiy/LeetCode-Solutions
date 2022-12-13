@@ -4,7 +4,8 @@
 &lt;/AssemblyExplorer&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::4F710916-48D2-4915-AC5A-67034B7336E9::net7.0::MinimumFallingPathSum.Tests.MinimumFallingPathSumTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::91C30459-242E-46F4-9347-4B803525D08D::net7.0::MedianOfTwoSortedArrays.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11441618-C1A5-45F2-9414-41C274B0E8C0::net7.0::TwoSum.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11441618-C1A5-45F2-9414-41C274B0E8C0::net7.0::TwoSum.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::11441618-C1A5-45F2-9414-41C274B0E8C0::net7.0::TwoSum.Tests.Tests.Test3&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Minimum Falling Path Sum", "Minimum Falling Path Sum", "{BFA3822E-A6BB-450C-8941-86E75483B18B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "931. Minimum Falling Path Sum", "931. Minimum Falling Path Sum", "{BFA3822E-A6BB-450C-8941-86E75483B18B}"
 	ProjectSection(SolutionItems) = preProject
 		Medium\931. MinimumFallingPathSum\README.md = Medium\931. MinimumFallingPathSum\README.md
 	EndProjectSection
@@ -19,10 +19,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays.Tests", "Hard\4. Median of Two Sorted Arrays\MedianOfTwoSortedArrays.Tests\MedianOfTwoSortedArrays.Tests.csproj", "{91C30459-242E-46F4-9347-4B803525D08D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Median of Two Sorted Arrays", "Median of Two Sorted Arrays", "{A2F58697-4B46-45FD-9431-8E5F7AC09767}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Median of Two Sorted Arrays", "4. Median of Two Sorted Arrays", "{A2F58697-4B46-45FD-9431-8E5F7AC09767}"
 	ProjectSection(SolutionItems) = preProject
 		Hard\4. Median of Two Sorted Arrays\README.md = Hard\4. Median of Two Sorted Arrays\README.md
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Two Sum", "1. Two Sum", "{AA9232FF-B16D-466C-B9F4-73AC81EFBD51}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\1. Two Sum\README.md = Easy\1. Two Sum\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum.Tests", "Easy\1. Two Sum\TwoSum.Tests\TwoSum.Tests.csproj", "{11441618-C1A5-45F2-9414-41C274B0E8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "Easy\1. Two Sum\TwoSum\TwoSum.csproj", "{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +45,9 @@ Global
 		{A2F58697-4B46-45FD-9431-8E5F7AC09767} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
 		{B30E2F6F-CF0C-4687-96DB-36A7F1EF6305} = {A2F58697-4B46-45FD-9431-8E5F7AC09767}
 		{91C30459-242E-46F4-9347-4B803525D08D} = {A2F58697-4B46-45FD-9431-8E5F7AC09767}
+		{AA9232FF-B16D-466C-B9F4-73AC81EFBD51} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{11441618-C1A5-45F2-9414-41C274B0E8C0} = {AA9232FF-B16D-466C-B9F4-73AC81EFBD51}
+		{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5} = {AA9232FF-B16D-466C-B9F4-73AC81EFBD51}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -54,5 +66,13 @@ Global
 		{91C30459-242E-46F4-9347-4B803525D08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91C30459-242E-46F4-9347-4B803525D08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91C30459-242E-46F4-9347-4B803525D08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11441618-C1A5-45F2-9414-41C274B0E8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11441618-C1A5-45F2-9414-41C274B0E8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11441618-C1A5-45F2-9414-41C274B0E8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11441618-C1A5-45F2-9414-41C274B0E8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BA61ED-73E4-4794-8A9A-5CCED49F61E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
