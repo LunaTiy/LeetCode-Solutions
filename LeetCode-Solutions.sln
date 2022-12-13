@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Minimum Falling Path Sum", "Minimum Falling Path Sum", "{BFA3822E-A6BB-450C-8941-86E75483B18B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum", "MinimumFallingPathSum\MinimumFallingPathSum.csproj", "{45524312-9B8A-44AF-9553-37204CF88E15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum", "Medium\MinimumFallingPathSum\MinimumFallingPathSum.csproj", "{5236C072-0A71-4AB6-905E-B32B7149DDD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum.Tests", "MinimumFallingPathSum.Tests\MinimumFallingPathSum.Tests.csproj", "{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumFallingPathSum.Tests", "Medium\MinimumFallingPathSum.Tests\MinimumFallingPathSum.Tests.csproj", "{143D1D10-32BD-402D-8185-8421BE031455}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,17 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{45524312-9B8A-44AF-9553-37204CF88E15} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
-		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
+		{5236C072-0A71-4AB6-905E-B32B7149DDD7} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
+		{143D1D10-32BD-402D-8185-8421BE031455} = {BFA3822E-A6BB-450C-8941-86E75483B18B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45524312-9B8A-44AF-9553-37204CF88E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45524312-9B8A-44AF-9553-37204CF88E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45524312-9B8A-44AF-9553-37204CF88E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45524312-9B8A-44AF-9553-37204CF88E15}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0B0F8CB-4614-441B-B45E-8F6E3E4466A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5236C072-0A71-4AB6-905E-B32B7149DDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5236C072-0A71-4AB6-905E-B32B7149DDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5236C072-0A71-4AB6-905E-B32B7149DDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5236C072-0A71-4AB6-905E-B32B7149DDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143D1D10-32BD-402D-8185-8421BE031455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143D1D10-32BD-402D-8185-8421BE031455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143D1D10-32BD-402D-8185-8421BE031455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143D1D10-32BD-402D-8185-8421BE031455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
