@@ -6,5 +6,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C037A956-697A-412E-8A9B-FAE2D1CA0471::net7.0::HouseRobber.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C037A956-697A-412E-8A9B-FAE2D1CA0471::net7.0::HouseRobber.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D26D2C9-B70C-4F4E-A1CB-AB7364052D68::net7.0::LongestCommonSubsequence.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D26D2C9-B70C-4F4E-A1CB-AB7364052D68::net7.0::LongestCommonSubsequence.Tests.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
