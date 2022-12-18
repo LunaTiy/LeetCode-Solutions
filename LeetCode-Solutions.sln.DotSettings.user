@@ -15,5 +15,8 @@
     &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test3&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests.NullTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
