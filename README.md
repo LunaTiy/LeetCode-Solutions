@@ -7,6 +7,6 @@
 <p/>
 
 
-    I'm using C# 11 and .Net 7
+    I'm using C# 11 and .NET 7
 
 My profile: https://leetcode.com/LunaTiy/
