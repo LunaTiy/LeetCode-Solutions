@@ -8,6 +8,8 @@ Given edges and the integers n, source, and destination, return true if there is
 
 ##### Example 1:
 
+![image](https://user-images.githubusercontent.com/36387585/208475738-233e101b-b2de-4284-b43f-41abfa6f39ef.png)
+
     Input: n = 3, edges = [[0,1],[1,2],[2,0]], source = 0, destination = 2
     Output: true
     Explanation: There are two paths from vertex 0 to vertex 2:
@@ -15,6 +17,8 @@ Given edges and the integers n, source, and destination, return true if there is
     - 0 → 2
 
 ##### Example 2:
+
+![image](https://user-images.githubusercontent.com/36387585/208475775-ac15eb5e-622f-4c87-bd8b-9a729c8a7309.png)
 
     Input: n = 6, edges = [[0,1],[0,2],[3,5],[5,4],[4,3]], source = 0, destination = 5
     Output: false
