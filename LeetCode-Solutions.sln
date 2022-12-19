@@ -87,6 +87,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists", "Hard\2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists.Tests", "Hard\23. Merge k Sorted Lists\MergeKSortedLists.Tests\MergeKSortedLists.Tests.csproj", "{2C3B934A-3EDD-4758-A160-9622696E8250}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph", "{8146A80B-EE85-44E4-A151-0C304A136B5D}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\1971. Find if Path Exists in Graph\README.md = Easy\1971. Find if Path Exists in Graph\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfPathExistsInGraph", "Easy\1971. Find if Path Exists in Graph\FindIfPathExistsInGraph\FindIfPathExistsInGraph.csproj", "{B5EEFC91-5503-43CA-9EFD-EF97740718B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfPathExistsInGraph.Tests", "Easy\1971. Find if Path Exists in Graph\FindIfPathExistsInGraph.Tests\FindIfPathExistsInGraph.Tests.csproj", "{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,6 +129,9 @@ Global
 		{786E32F3-5C09-42A5-B0BB-179CBCAC071A} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
 		{F3DBEF6D-5F67-4F05-BD81-90568BE70202} = {786E32F3-5C09-42A5-B0BB-179CBCAC071A}
 		{2C3B934A-3EDD-4758-A160-9622696E8250} = {786E32F3-5C09-42A5-B0BB-179CBCAC071A}
+		{8146A80B-EE85-44E4-A151-0C304A136B5D} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{B5EEFC91-5503-43CA-9EFD-EF97740718B4} = {8146A80B-EE85-44E4-A151-0C304A136B5D}
+		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36} = {8146A80B-EE85-44E4-A151-0C304A136B5D}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -194,5 +206,13 @@ Global
 		{2C3B934A-3EDD-4758-A160-9622696E8250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C3B934A-3EDD-4758-A160-9622696E8250}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C3B934A-3EDD-4758-A160-9622696E8250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EEFC91-5503-43CA-9EFD-EF97740718B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EEFC91-5503-43CA-9EFD-EF97740718B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EEFC91-5503-43CA-9EFD-EF97740718B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EEFC91-5503-43CA-9EFD-EF97740718B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

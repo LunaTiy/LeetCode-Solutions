@@ -4,19 +4,11 @@
 &lt;/AssemblyExplorer&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74841c83_002D1b34_002D4582_002Da668_002D2053f55a8328/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::DA8AA4BE-49ED-4808-BF6F-5EA91C0CA523::net7.0::EvaluateReversePolishNotation.Tests.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::770A751A-EA16-4DC3-9A9B-8E1D7AF75A36::net7.0::FindIfPathExistsInGraph.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::DA8AA4BE-49ED-4808-BF6F-5EA91C0CA523::net7.0::EvaluateReversePolishNotation.Tests.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test3&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2BA0F9CE-04B0-4897-98E4-84A8488CFA5E::net7.0::DailyTemperatures.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests.NullTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2C3B934A-3EDD-4758-A160-9622696E8250::net7.0::MergeKSortedLists.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::770A751A-EA16-4DC3-9A9B-8E1D7AF75A36::net7.0::FindIfPathExistsInGraph.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
