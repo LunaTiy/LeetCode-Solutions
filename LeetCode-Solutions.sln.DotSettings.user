@@ -2,13 +2,16 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.0\ref\net7.0\Microsoft.CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74841c83_002D1b34_002D4582_002Da668_002D2053f55a8328/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74841c83_002D1b34_002D4582_002Da668_002D2053f55a8328/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::770A751A-EA16-4DC3-9A9B-8E1D7AF75A36::net7.0::FindIfPathExistsInGraph.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6741977E-29A7-4CCF-89CD-02F04A40FD46::net7.0::KeysAndRooms.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6741977E-29A7-4CCF-89CD-02F04A40FD46::net7.0::KeysAndRooms.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::770A751A-EA16-4DC3-9A9B-8E1D7AF75A36::net7.0::FindIfPathExistsInGraph.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6741977E-29A7-4CCF-89CD-02F04A40FD46::net7.0::KeysAndRooms.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

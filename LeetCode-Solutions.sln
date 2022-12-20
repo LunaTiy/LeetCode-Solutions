@@ -96,6 +96,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfPathExistsInGraph", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfPathExistsInGraph.Tests", "Easy\1971. Find if Path Exists in Graph\FindIfPathExistsInGraph.Tests\FindIfPathExistsInGraph.Tests.csproj", "{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "841. Keys and Rooms", "841. Keys and Rooms", "{DD013EC3-F9F8-4E07-8E29-F3624A0F1021}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\841. Keys and Rooms\README.md = Medium\841. Keys and Rooms\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeysAndRooms", "Medium\841. Keys and Rooms\KeysAndRooms\KeysAndRooms.csproj", "{F0657077-9F4C-42EB-B9AF-034477840270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeysAndRooms.Tests", "Medium\841. Keys and Rooms\KeysAndRooms.Tests\KeysAndRooms.Tests.csproj", "{6741977E-29A7-4CCF-89CD-02F04A40FD46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,6 +141,9 @@ Global
 		{8146A80B-EE85-44E4-A151-0C304A136B5D} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{B5EEFC91-5503-43CA-9EFD-EF97740718B4} = {8146A80B-EE85-44E4-A151-0C304A136B5D}
 		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36} = {8146A80B-EE85-44E4-A151-0C304A136B5D}
+		{DD013EC3-F9F8-4E07-8E29-F3624A0F1021} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{F0657077-9F4C-42EB-B9AF-034477840270} = {DD013EC3-F9F8-4E07-8E29-F3624A0F1021}
+		{6741977E-29A7-4CCF-89CD-02F04A40FD46} = {DD013EC3-F9F8-4E07-8E29-F3624A0F1021}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -214,5 +226,13 @@ Global
 		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{770A751A-EA16-4DC3-9A9B-8E1D7AF75A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0657077-9F4C-42EB-B9AF-034477840270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0657077-9F4C-42EB-B9AF-034477840270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0657077-9F4C-42EB-B9AF-034477840270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0657077-9F4C-42EB-B9AF-034477840270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6741977E-29A7-4CCF-89CD-02F04A40FD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6741977E-29A7-4CCF-89CD-02F04A40FD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6741977E-29A7-4CCF-89CD-02F04A40FD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6741977E-29A7-4CCF-89CD-02F04A40FD46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
