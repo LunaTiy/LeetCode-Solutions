@@ -8,6 +8,9 @@ Return an array answer of length n where answer[i] is the sum of the distances b
 
 ##### Example 1:
 
+![image](https://user-images.githubusercontent.com/36387585/209204474-a6ef01bf-a428-4bd8-b3a9-a6ddb7c9bf34.png)
+
+
     Input: n = 6, edges = [[0,1],[0,2],[2,3],[2,4],[2,5]]
     Output: [8,12,6,10,10,10]
     Explanation: The tree is shown above.
@@ -17,10 +20,14 @@ Return an array answer of length n where answer[i] is the sum of the distances b
 
 ##### Example 2:
 
+![image](https://user-images.githubusercontent.com/36387585/209204531-6055d493-bcae-43e4-8ee0-b27c7fd0401e.png)
+
     Input: n = 1, edges = []
     Output: [0]
 
 ##### Example 3:
+
+![image](https://user-images.githubusercontent.com/36387585/209204543-6a31fb4d-d5db-4e1c-8463-26f5381faaa2.png)
 
     Input: n = 2, edges = [[1,0]]
     Output: [1,1]
