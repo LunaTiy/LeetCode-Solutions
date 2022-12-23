@@ -123,6 +123,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDistancesInTree", "Har
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDistancesInTree.Tests", "Hard\834. Sum of Distances in Tree\SumOfDistancesInTree.Tests\SumOfDistancesInTree.Tests.csproj", "{5DCF7BF4-43BD-4689-87A5-33F426F9029B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown", "{A4EAAC45-CB44-44B8-8BCC-222AD86AE69B}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\309. Best Time to Buy and Sell Stock with Cooldown\README.md = Medium\309. Best Time to Buy and Sell Stock with Cooldown\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockWithCooldown", "Medium\309. Best Time to Buy and Sell Stock with Cooldown\BestTimeToBuyAndSellStockWithCooldown\BestTimeToBuyAndSellStockWithCooldown.csproj", "{F51D284D-6BAF-4D23-940E-82FFE94DFAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockWithCooldown.Tests", "Medium\309. Best Time to Buy and Sell Stock with Cooldown\BestTimeToBuyAndSellStockWithCooldown.Tests\BestTimeToBuyAndSellStockWithCooldown.Tests.csproj", "{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,6 +177,9 @@ Global
 		{602371A8-94D6-47A1-B3AE-4456BF3927CA} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
 		{F656733F-AD03-42BF-A2C2-7A3D46C89F3B} = {602371A8-94D6-47A1-B3AE-4456BF3927CA}
 		{5DCF7BF4-43BD-4689-87A5-33F426F9029B} = {602371A8-94D6-47A1-B3AE-4456BF3927CA}
+		{A4EAAC45-CB44-44B8-8BCC-222AD86AE69B} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{F51D284D-6BAF-4D23-940E-82FFE94DFAFD} = {A4EAAC45-CB44-44B8-8BCC-222AD86AE69B}
+		{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14} = {A4EAAC45-CB44-44B8-8BCC-222AD86AE69B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -274,5 +286,13 @@ Global
 		{5DCF7BF4-43BD-4689-87A5-33F426F9029B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCF7BF4-43BD-4689-87A5-33F426F9029B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCF7BF4-43BD-4689-87A5-33F426F9029B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51D284D-6BAF-4D23-940E-82FFE94DFAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51D284D-6BAF-4D23-940E-82FFE94DFAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51D284D-6BAF-4D23-940E-82FFE94DFAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51D284D-6BAF-4D23-940E-82FFE94DFAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
