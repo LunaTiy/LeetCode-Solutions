@@ -13,7 +13,7 @@
     &lt;TestId&gt;NUnit3x::E67AA891-E23E-4585-AA24-A61DF41D12FF::net7.0::DominoAndTrominoTiling.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b850ce4_002Dccdc_002D4074_002Dabf2_002D2f800d43f2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Minimum Falling Path Sum&amp;gt;\&amp;lt;MinimumFallingPathSum.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::770A751A-EA16-4DC3-9A9B-8E1D7AF75A36::net7.0::FindIfPathExistsInGraph.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::6741977E-29A7-4CCF-89CD-02F04A40FD46::net7.0::KeysAndRooms.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
@@ -24,16 +24,11 @@
     &lt;TestId&gt;NUnit3x::5DCF7BF4-43BD-4689-87A5-33F426F9029B::net7.0::SumOfDistancesInTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::AC3798D8-F61D-4179-B10C-E36FDBE16A26::net7.0::LongestSubsequenceWithLimitedSum.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::AC3798D8-F61D-4179-B10C-E36FDBE16A26::net7.0::LongestSubsequenceWithLimitedSum.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::458BAD3B-8C97-4907-B12E-1149D07CB147::net7.0::JumpGame.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d601113_002D5cd1_002D4c65_002Da07d_002Da63ed8e509bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d601113_002D5cd1_002D4c65_002Da07d_002Da63ed8e509bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::5DCF7BF4-43BD-4689-87A5-33F426F9029B::net7.0::SumOfDistancesInTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::C4A81A43-E7CB-4AEF-A1DA-07134D2FEE14::net7.0::BestTimeToBuyAndSellStockWithCooldown.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E67AA891-E23E-4585-AA24-A61DF41D12FF::net7.0::DominoAndTrominoTiling.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E67AA891-E23E-4585-AA24-A61DF41D12FF::net7.0::DominoAndTrominoTiling.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E67AA891-E23E-4585-AA24-A61DF41D12FF::net7.0::DominoAndTrominoTiling.Tests.SolutionTests.Test4&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E67AA891-E23E-4585-AA24-A61DF41D12FF::net7.0::DominoAndTrominoTiling.Tests.SolutionTests.Test3&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::AC3798D8-F61D-4179-B10C-E36FDBE16A26::net7.0::LongestSubsequenceWithLimitedSum.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::458BAD3B-8C97-4907-B12E-1149D07CB147::net7.0::JumpGame.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
