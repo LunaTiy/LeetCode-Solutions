@@ -159,6 +159,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "Medium\55. Jump
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame.Tests", "Medium\55. Jump Game\JumpGame.Tests\JumpGame.Tests.csproj", "{458BAD3B-8C97-4907-B12E-1149D07CB147}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2279. Maximum Bags With Full Capacity of Rocks", "2279. Maximum Bags With Full Capacity of Rocks", "{7C89B3D7-F503-4C84-93BC-8743ABACF5D9}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\2279. Maximum Bags With Full Capacity of Rocks\README.md = Medium\2279. Maximum Bags With Full Capacity of Rocks\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBagsWithFullCapacityOfRocks", "Medium\2279. Maximum Bags With Full Capacity of Rocks\MaximumBagsWithFullCapacityOfRocks\MaximumBagsWithFullCapacityOfRocks.csproj", "{69A535AE-0890-475F-9D8F-16D39482E17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBagsWithFullCapacityOfRocks.Tests", "Medium\2279. Maximum Bags With Full Capacity of Rocks\MaximumBagsWithFullCapacityOfRocks.Tests\MaximumBagsWithFullCapacityOfRocks.Tests.csproj", "{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,6 +225,9 @@ Global
 		{6CDDE71D-CD88-4852-A86C-0EAAA74E5E6D} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{686CBF87-EA61-4789-974B-F4D14C836178} = {6CDDE71D-CD88-4852-A86C-0EAAA74E5E6D}
 		{458BAD3B-8C97-4907-B12E-1149D07CB147} = {6CDDE71D-CD88-4852-A86C-0EAAA74E5E6D}
+		{7C89B3D7-F503-4C84-93BC-8743ABACF5D9} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{69A535AE-0890-475F-9D8F-16D39482E17C} = {7C89B3D7-F503-4C84-93BC-8743ABACF5D9}
+		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8} = {7C89B3D7-F503-4C84-93BC-8743ABACF5D9}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -354,5 +366,13 @@ Global
 		{458BAD3B-8C97-4907-B12E-1149D07CB147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{458BAD3B-8C97-4907-B12E-1149D07CB147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{458BAD3B-8C97-4907-B12E-1149D07CB147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A535AE-0890-475F-9D8F-16D39482E17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A535AE-0890-475F-9D8F-16D39482E17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A535AE-0890-475F-9D8F-16D39482E17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A535AE-0890-475F-9D8F-16D39482E17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
