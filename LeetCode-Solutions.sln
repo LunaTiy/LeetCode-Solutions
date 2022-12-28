@@ -168,6 +168,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBagsWithFullCapacity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBagsWithFullCapacityOfRocks.Tests", "Medium\2279. Maximum Bags With Full Capacity of Rocks\MaximumBagsWithFullCapacityOfRocks.Tests\MaximumBagsWithFullCapacityOfRocks.Tests.csproj", "{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1962. Remove Stones to Minimize the Total", "1962. Remove Stones to Minimize the Total", "{8A33B8B1-8CBB-46C3-9403-FC0EEA973B37}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\1962. Remove Stones to Minimize the Total\README.md = Medium\1962. Remove Stones to Minimize the Total\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStonesToMinimizeTheTotal", "Medium\1962. Remove Stones to Minimize the Total\RemoveStonesToMinimizeTheTotal\RemoveStonesToMinimizeTheTotal.csproj", "{32D6E04B-D2B7-4417-B740-0258FD49A4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStonesToMinimizeTheTotal.Tests", "Medium\1962. Remove Stones to Minimize the Total\RemoveStonesToMinimizeTheTotal.Tests\RemoveStonesToMinimizeTheTotal.Tests.csproj", "{8ECD38E9-60D1-4169-BBF2-80D191A83CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,6 +237,9 @@ Global
 		{7C89B3D7-F503-4C84-93BC-8743ABACF5D9} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{69A535AE-0890-475F-9D8F-16D39482E17C} = {7C89B3D7-F503-4C84-93BC-8743ABACF5D9}
 		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8} = {7C89B3D7-F503-4C84-93BC-8743ABACF5D9}
+		{8A33B8B1-8CBB-46C3-9403-FC0EEA973B37} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{32D6E04B-D2B7-4417-B740-0258FD49A4BE} = {8A33B8B1-8CBB-46C3-9403-FC0EEA973B37}
+		{8ECD38E9-60D1-4169-BBF2-80D191A83CB1} = {8A33B8B1-8CBB-46C3-9403-FC0EEA973B37}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -374,5 +386,13 @@ Global
 		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3578B1CD-D61B-40DE-BCEC-DB537A7C41C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D6E04B-D2B7-4417-B740-0258FD49A4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D6E04B-D2B7-4417-B740-0258FD49A4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D6E04B-D2B7-4417-B740-0258FD49A4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D6E04B-D2B7-4417-B740-0258FD49A4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECD38E9-60D1-4169-BBF2-80D191A83CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECD38E9-60D1-4169-BBF2-80D191A83CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECD38E9-60D1-4169-BBF2-80D191A83CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECD38E9-60D1-4169-BBF2-80D191A83CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
