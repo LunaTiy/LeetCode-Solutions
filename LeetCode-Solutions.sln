@@ -195,6 +195,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "Easy\290. Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern.Tests", "Easy\290. Word Pattern\WordPattern.Tests\WordPattern.Tests.csproj", "{D7FE3591-B845-4CC0-A799-401BD3473677}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "520. Detect Capital", "520. Detect Capital", "{C9AD058A-460E-4247-B80E-5725E365AD51}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\520. Detect Capital\README.md = Easy\520. Detect Capital\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCapital", "Easy\520. Detect Capital\DetectCapital\DetectCapital.csproj", "{ED947F91-B36D-4316-8FF9-B726131BC97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCapital.Tests", "Easy\520. Detect Capital\DetectCapital.Tests\DetectCapital.Tests.csproj", "{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -264,6 +273,9 @@ Global
 		{CC01221A-6DC5-4666-9364-52AF468E5B84} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{A2657A18-F3EC-40B9-ABDA-B966E16B85F1} = {CC01221A-6DC5-4666-9364-52AF468E5B84}
 		{D7FE3591-B845-4CC0-A799-401BD3473677} = {CC01221A-6DC5-4666-9364-52AF468E5B84}
+		{C9AD058A-460E-4247-B80E-5725E365AD51} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{ED947F91-B36D-4316-8FF9-B726131BC97A} = {C9AD058A-460E-4247-B80E-5725E365AD51}
+		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D} = {C9AD058A-460E-4247-B80E-5725E365AD51}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -434,5 +446,13 @@ Global
 		{D7FE3591-B845-4CC0-A799-401BD3473677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7FE3591-B845-4CC0-A799-401BD3473677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7FE3591-B845-4CC0-A799-401BD3473677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED947F91-B36D-4316-8FF9-B726131BC97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED947F91-B36D-4316-8FF9-B726131BC97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED947F91-B36D-4316-8FF9-B726131BC97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED947F91-B36D-4316-8FF9-B726131BC97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
