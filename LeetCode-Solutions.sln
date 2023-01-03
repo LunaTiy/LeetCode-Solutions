@@ -204,6 +204,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCapital", "Easy\520. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCapital.Tests", "Easy\520. Detect Capital\DetectCapital.Tests\DetectCapital.Tests.csproj", "{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted", "{F91F8798-EA41-426F-9BD8-979A9F7C7581}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\944. Delete Columns to Make Sorted\README.md = Easy\944. Delete Columns to Make Sorted\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted", "Easy\944. Delete Columns to Make Sorted\DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted.csproj", "{19525087-484E-43FE-B4FA-B1E9350B7368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted.Tests", "Easy\944. Delete Columns to Make Sorted\DeleteColumnsToMakeSorted.Tests\DeleteColumnsToMakeSorted.Tests.csproj", "{84A87EC9-0B3A-4A91-A771-7BD249C00506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -276,6 +285,9 @@ Global
 		{C9AD058A-460E-4247-B80E-5725E365AD51} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{ED947F91-B36D-4316-8FF9-B726131BC97A} = {C9AD058A-460E-4247-B80E-5725E365AD51}
 		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D} = {C9AD058A-460E-4247-B80E-5725E365AD51}
+		{F91F8798-EA41-426F-9BD8-979A9F7C7581} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{19525087-484E-43FE-B4FA-B1E9350B7368} = {F91F8798-EA41-426F-9BD8-979A9F7C7581}
+		{84A87EC9-0B3A-4A91-A771-7BD249C00506} = {F91F8798-EA41-426F-9BD8-979A9F7C7581}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -454,5 +466,13 @@ Global
 		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19525087-484E-43FE-B4FA-B1E9350B7368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19525087-484E-43FE-B4FA-B1E9350B7368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19525087-484E-43FE-B4FA-B1E9350B7368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19525087-484E-43FE-B4FA-B1E9350B7368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A87EC9-0B3A-4A91-A771-7BD249C00506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A87EC9-0B3A-4A91-A771-7BD249C00506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A87EC9-0B3A-4A91-A771-7BD249C00506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A87EC9-0B3A-4A91-A771-7BD249C00506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
