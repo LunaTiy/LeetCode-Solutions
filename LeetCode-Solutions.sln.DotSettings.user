@@ -13,10 +13,11 @@
     &lt;TestId&gt;NUnit3x::8ECD38E9-60D1-4169-BBF2-80D191A83CB1::net7.0::RemoveStonesToMinimizeTheTotal.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2eb91ca6_002Df7fd_002D4a56_002D9498_002De52d7501aa65/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2eb91ca6_002Df7fd_002D4a56_002D9498_002De52d7501aa65/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::84A87EC9-0B3A-4A91-A771-7BD249C00506::net7.0::DeleteColumnsToMakeSorted.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DD1A5D45-B756-41C8-B085-ACF0AE378C2E::net7.0::MinimumRoundsToCompleteAllTasks.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B7392F1E-03AE-4D4C-91A6-D4439558B037::net7.0::MinimumNumberOfArrowsToBurstBalloons.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e2b102a_002D3908_002D4d14_002Db6d6_002Da8b12b1c674b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
@@ -84,12 +85,13 @@
     &lt;TestId&gt;NUnit3x::8ECD38E9-60D1-4169-BBF2-80D191A83CB1::net7.0::RemoveStonesToMinimizeTheTotal.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5b5a763_002De476_002D4e77_002D82e6_002Df0be5537bff5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5b5a763_002De476_002D4e77_002D82e6_002Df0be5537bff5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8ECD38E9-60D1-4169-BBF2-80D191A83CB1::net7.0::RemoveStonesToMinimizeTheTotal.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::4FE1F758-6995-4FED-A242-036C2E74DBA4::net7.0::SingleThreadedCPU.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3D0C7DD3-D5C8-45A7-9B12-E4F25E70844D::net7.0::DetectCapital.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::84A87EC9-0B3A-4A91-A771-7BD249C00506::net7.0::DeleteColumnsToMakeSorted.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DD1A5D45-B756-41C8-B085-ACF0AE378C2E::net7.0::MinimumRoundsToCompleteAllTasks.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B7392F1E-03AE-4D4C-91A6-D4439558B037::net7.0::MinimumNumberOfArrowsToBurstBalloons.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

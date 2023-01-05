@@ -222,6 +222,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRoundsToCompleteAllT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRoundsToCompleteAllTasks.Tests", "Medium\2244. Minimum Rounds to Complete All Tasks\MinimumRoundsToCompleteAllTasks.Tests\MinimumRoundsToCompleteAllTasks.Tests.csproj", "{DD1A5D45-B756-41C8-B085-ACF0AE378C2E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "452. Minimum Number of Arrows to Burst Balloons", "452. Minimum Number of Arrows to Burst Balloons", "{67462D32-6907-4A29-B4C6-25D42CF1EABA}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\452. Minimum Number of Arrows to Burst Balloons\README.md = Medium\452. Minimum Number of Arrows to Burst Balloons\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfArrowsToBurstBalloons", "Medium\452. Minimum Number of Arrows to Burst Balloons\MinimumNumberOfArrowsToBurstBalloons\MinimumNumberOfArrowsToBurstBalloons.csproj", "{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfArrowsToBurstBalloons.Tests", "Medium\452. Minimum Number of Arrows to Burst Balloons\MinimumNumberOfArrowsToBurstBalloons.Tests\MinimumNumberOfArrowsToBurstBalloons.Tests.csproj", "{B7392F1E-03AE-4D4C-91A6-D4439558B037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,6 +309,9 @@ Global
 		{4B2E347B-74EE-4881-99A8-0EC2DD378E28} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{C77E4652-384D-42EB-934D-8B696E328B99} = {4B2E347B-74EE-4881-99A8-0EC2DD378E28}
 		{DD1A5D45-B756-41C8-B085-ACF0AE378C2E} = {4B2E347B-74EE-4881-99A8-0EC2DD378E28}
+		{67462D32-6907-4A29-B4C6-25D42CF1EABA} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6} = {67462D32-6907-4A29-B4C6-25D42CF1EABA}
+		{B7392F1E-03AE-4D4C-91A6-D4439558B037} = {67462D32-6907-4A29-B4C6-25D42CF1EABA}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -494,5 +506,13 @@ Global
 		{DD1A5D45-B756-41C8-B085-ACF0AE378C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD1A5D45-B756-41C8-B085-ACF0AE378C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD1A5D45-B756-41C8-B085-ACF0AE378C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216BFBB5-B8C8-4E06-871C-F9B0001EF2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7392F1E-03AE-4D4C-91A6-D4439558B037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7392F1E-03AE-4D4C-91A6-D4439558B037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7392F1E-03AE-4D4C-91A6-D4439558B037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7392F1E-03AE-4D4C-91A6-D4439558B037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
