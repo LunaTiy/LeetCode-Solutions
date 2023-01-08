@@ -249,6 +249,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "Medium\134. G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation.Tests", "Medium\134. Gas Station\GasStation.Tests\GasStation.Tests.csproj", "{002ABBF9-CCA1-425A-9822-A86FAE49EB7D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "149. Max Points on a Line", "149. Max Points on a Line", "{1171D45E-8BF6-42B4-B037-0404A8DB7B21}"
+	ProjectSection(SolutionItems) = preProject
+		Hard\149. Max Points on a Line\README.md = Hard\149. Max Points on a Line\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPointsOnALine", "Hard\149. Max Points on a Line\MaxPointsOnALine\MaxPointsOnALine.csproj", "{5739F742-75B6-4E21-A1BF-FC9FE5859598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPointsOnALine.Tests", "Hard\149. Max Points on a Line\MaxPointsOnALine.Tests\MaxPointsOnALine.Tests.csproj", "{1FCDAB83-2348-4685-B105-F4C741BAA34F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -336,6 +345,9 @@ Global
 		{1AAA1389-D739-436F-853A-4C07042C0ED0} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{5069E0A4-C9CF-4036-8756-B8A9DEBB93F2} = {1AAA1389-D739-436F-853A-4C07042C0ED0}
 		{002ABBF9-CCA1-425A-9822-A86FAE49EB7D} = {1AAA1389-D739-436F-853A-4C07042C0ED0}
+		{1171D45E-8BF6-42B4-B037-0404A8DB7B21} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
+		{5739F742-75B6-4E21-A1BF-FC9FE5859598} = {1171D45E-8BF6-42B4-B037-0404A8DB7B21}
+		{1FCDAB83-2348-4685-B105-F4C741BAA34F} = {1171D45E-8BF6-42B4-B037-0404A8DB7B21}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -554,5 +566,13 @@ Global
 		{002ABBF9-CCA1-425A-9822-A86FAE49EB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{002ABBF9-CCA1-425A-9822-A86FAE49EB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{002ABBF9-CCA1-425A-9822-A86FAE49EB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5739F742-75B6-4E21-A1BF-FC9FE5859598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5739F742-75B6-4E21-A1BF-FC9FE5859598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5739F742-75B6-4E21-A1BF-FC9FE5859598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5739F742-75B6-4E21-A1BF-FC9FE5859598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCDAB83-2348-4685-B105-F4C741BAA34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCDAB83-2348-4685-B105-F4C741BAA34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCDAB83-2348-4685-B105-F4C741BAA34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCDAB83-2348-4685-B105-F4C741BAA34F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
