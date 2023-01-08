@@ -8,6 +8,7 @@
     &lt;TestId&gt;NUnit3x::002ABBF9-CCA1-425A-9822-A86FAE49EB7D::net7.0::GasStation.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::1FCDAB83-2348-4685-B105-F4C741BAA34F::net7.0::MaxPointsOnALine.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::1FCDAB83-2348-4685-B105-F4C741BAA34F::net7.0::MaxPointsOnALine.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FDFD63ED-4BCA-4D10-8E0B-BDDC78A8B45E::net7.0::FindConsecutiveIntegersFromDataStream.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
