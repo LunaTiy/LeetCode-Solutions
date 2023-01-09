@@ -276,6 +276,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindXor-BeautyOfArray", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindXor-BeautyOfArray.Tests", "Medium\2527. Find Xor-Beauty of Array\FindXor-BeautyOfArray.Tests\FindXor-BeautyOfArray.Tests.csproj", "{CC6D7AED-413D-4AF0-B5AF-4B4A2F401D0E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "144. Binary Tree Preorder Traversal", "144. Binary Tree Preorder Traversal", "{1D0BC43B-BE8E-42B3-A508-9B512ADDAF7C}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\144. Binary Tree Preorder Traversal\README.md = Easy\144. Binary Tree Preorder Traversal\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal", "Easy\144. Binary Tree Preorder Traversal\BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.csproj", "{B9F80602-C68C-485A-9112-DC4E39187DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal.Tests", "Easy\144. Binary Tree Preorder Traversal\BinaryTreePreorderTraversal.Tests\BinaryTreePreorderTraversal.Tests.csproj", "{F253608A-9057-4D20-B5B4-0A8BACEBD197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -372,6 +381,9 @@ Global
 		{AC9B9239-9BF0-4BC4-A608-D08205A491BF} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{C41812AB-3C9A-4E50-835A-F90A9EF7F583} = {AC9B9239-9BF0-4BC4-A608-D08205A491BF}
 		{CC6D7AED-413D-4AF0-B5AF-4B4A2F401D0E} = {AC9B9239-9BF0-4BC4-A608-D08205A491BF}
+		{1D0BC43B-BE8E-42B3-A508-9B512ADDAF7C} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{B9F80602-C68C-485A-9112-DC4E39187DA6} = {1D0BC43B-BE8E-42B3-A508-9B512ADDAF7C}
+		{F253608A-9057-4D20-B5B4-0A8BACEBD197} = {1D0BC43B-BE8E-42B3-A508-9B512ADDAF7C}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -614,5 +626,13 @@ Global
 		{CC6D7AED-413D-4AF0-B5AF-4B4A2F401D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6D7AED-413D-4AF0-B5AF-4B4A2F401D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6D7AED-413D-4AF0-B5AF-4B4A2F401D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F80602-C68C-485A-9112-DC4E39187DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F80602-C68C-485A-9112-DC4E39187DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F80602-C68C-485A-9112-DC4E39187DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F80602-C68C-485A-9112-DC4E39187DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F253608A-9057-4D20-B5B4-0A8BACEBD197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F253608A-9057-4D20-B5B4-0A8BACEBD197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F253608A-9057-4D20-B5B4-0A8BACEBD197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F253608A-9057-4D20-B5B4-0A8BACEBD197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
