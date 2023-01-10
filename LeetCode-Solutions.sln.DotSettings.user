@@ -5,6 +5,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1fb948e5_002D8178_002D44f1_002D9293_002D2e2a710823c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::F253608A-9057-4D20-B5B4-0A8BACEBD197::net7.0::BinaryTreePreorderTraversal.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::09315449-7219-4036-A8F5-9468CD2B9418::net7.0::SameTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
