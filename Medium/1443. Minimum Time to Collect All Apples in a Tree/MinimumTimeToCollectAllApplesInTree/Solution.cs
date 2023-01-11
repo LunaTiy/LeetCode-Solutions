@@ -11,22 +11,29 @@ public class Solution
 
         for (var i = 0; i < n; i++) dp[i] = new List<int>();
 
-        foreach (int[] edge in edges) dp[edge[0]].Add(edge[1]);
+        foreach (int[] edge in edges)
+        {
+            dp[edge[0]].Add(edge[1]);
+            dp[edge[1]].Add(edge[0]);
+        }
 
-        int sub = hasApple[0] ? 2 : 0;
-        return DFS(dp, hasApple, 0) - sub;
+        int time = DFS(dp, hasApple, 0, -1);
+        return hasApple[0] || time != 0 ? time - 2 : time;
     }
 
-    private static int DFS(Dictionary<int, List<int>> dp, IList<bool> hasApple, int currentNode)
+    private static int DFS(Dictionary<int, List<int>> dp, IList<bool> hasApple, int currentNode, int prevNode)
     {
         if (dp[currentNode].Count == 0)
             return hasApple[currentNode] ? 2 : 0;
 
-        int steps = 0;
+        var steps = 0;
         
         foreach (int childrenNode in dp[currentNode])
-            steps += DFS(dp, hasApple, childrenNode);
+        {
+            if(childrenNode == prevNode) continue;
+            steps += DFS(dp, hasApple, childrenNode, currentNode);
+        }
 
-        return steps != 0 ? steps + 2 : 0;
+        return hasApple[currentNode] || steps != 0 ? steps + 2 : steps;
     }
 }

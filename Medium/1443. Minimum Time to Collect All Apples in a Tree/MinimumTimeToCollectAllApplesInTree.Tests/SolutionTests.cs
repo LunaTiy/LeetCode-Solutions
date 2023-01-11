@@ -54,6 +54,6 @@ public class SolutionTests
             { new[] { 0, 1 }, new[] { 1, 2 }, new[] { 0, 3 } };
         bool[] hasApple = { true, true, false, true };
         
-        Assert.That(new Solution().MinTime(n, edges, hasApple), Is.EqualTo(6));
+        Assert.That(new Solution().MinTime(n, edges, hasApple), Is.EqualTo(4));
     }
 }
