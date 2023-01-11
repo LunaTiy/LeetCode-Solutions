@@ -34,4 +34,26 @@ public class SolutionTests
         
         Assert.That(new Solution().MinTime(n, edges, hasApple), Is.EqualTo(0));
     }
+    
+    [Test]
+    public void Test4()
+    {
+        const int n = 4;
+        int[][] edges =
+            { new[] { 0, 1 }, new[] { 1, 2 }, new[] { 0, 3 } };
+        bool[] hasApple = { true, true, true, true };
+        
+        Assert.That(new Solution().MinTime(n, edges, hasApple), Is.EqualTo(6));
+    }
+    
+    [Test]
+    public void Test5()
+    {
+        const int n = 4;
+        int[][] edges =
+            { new[] { 0, 1 }, new[] { 1, 2 }, new[] { 0, 3 } };
+        bool[] hasApple = { true, true, false, true };
+        
+        Assert.That(new Solution().MinTime(n, edges, hasApple), Is.EqualTo(6));
+    }
 }
