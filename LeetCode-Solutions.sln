@@ -303,6 +303,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumTimeToCollectAllAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumTimeToCollectAllApplesInTree.Tests", "Medium\1443. Minimum Time to Collect All Apples in a Tree\MinimumTimeToCollectAllApplesInTree.Tests\MinimumTimeToCollectAllApplesInTree.Tests.csproj", "{BF2D6CA5-C383-4413-B6AE-896491D81B53}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1519. Number of Nodes in the Sub-Tree With the Same Label", "1519. Number of Nodes in the Sub-Tree With the Same Label", "{BC322E94-DDD1-45A7-A67C-07ACF669EFF4}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\1519. Number of Nodes in the Sub-Tree With the Same Label\README.md = Medium\1519. Number of Nodes in the Sub-Tree With the Same Label\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfNodesInTheSub-TreeWithTheSameLabel", "Medium\1519. Number of Nodes in the Sub-Tree With the Same Label\NumberOfNodesInTheSub-TreeWithTheSameLabel\NumberOfNodesInTheSub-TreeWithTheSameLabel.csproj", "{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests", "Medium\1519. Number of Nodes in the Sub-Tree With the Same Label\NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests\NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests.csproj", "{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -408,6 +417,9 @@ Global
 		{69AF033A-6FE2-44DF-A297-82C66155E256} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{D3D44565-6DE8-4550-8981-AA9E616AA67F} = {69AF033A-6FE2-44DF-A297-82C66155E256}
 		{BF2D6CA5-C383-4413-B6AE-896491D81B53} = {69AF033A-6FE2-44DF-A297-82C66155E256}
+		{BC322E94-DDD1-45A7-A67C-07ACF669EFF4} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460} = {BC322E94-DDD1-45A7-A67C-07ACF669EFF4}
+		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB} = {BC322E94-DDD1-45A7-A67C-07ACF669EFF4}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -674,5 +686,13 @@ Global
 		{BF2D6CA5-C383-4413-B6AE-896491D81B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF2D6CA5-C383-4413-B6AE-896491D81B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF2D6CA5-C383-4413-B6AE-896491D81B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

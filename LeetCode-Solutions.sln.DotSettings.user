@@ -8,6 +8,8 @@
     &lt;TestId&gt;NUnit3x::09315449-7219-4036-A8F5-9468CD2B9418::net7.0::SameTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BF2D6CA5-C383-4413-B6AE-896491D81B53::net7.0::MinimumTimeToCollectAllApplesInTree.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BF2D6CA5-C383-4413-B6AE-896491D81B53::net7.0::MinimumTimeToCollectAllApplesInTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB::net7.0::NumberOfNodesInTheSub_TreeWithTheSameLabel.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB::net7.0::NumberOfNodesInTheSub_TreeWithTheSameLabel.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
