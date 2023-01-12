@@ -10,12 +10,16 @@ A subtree of a tree T is the tree consisting of a node in T and all of its desce
 
 ##### Example 1:
 
+![image](https://user-images.githubusercontent.com/36387585/212055670-e018cec1-a76a-497c-9704-693e8ad54324.png)
+
     Input: n = 7, edges = [[0,1],[0,2],[1,4],[1,5],[2,3],[2,6]], labels = "abaedcd"
     Output: [2,1,1,1,1,1,1]
     Explanation: Node 0 has label 'a' and its sub-tree has node 2 with label 'a' as well, thus the answer is 2. Notice that any node is part of its sub-tree.
     Node 1 has a label 'b'. The sub-tree of node 1 contains nodes 1,4 and 5, as nodes 4 and 5 have different labels than node 1, the answer is just 1 (the node itself).
 
 ##### Example 2:
+
+![image](https://user-images.githubusercontent.com/36387585/212055694-5153d02c-ecbb-4304-abc5-520b881fde1b.png)
 
     Input: n = 4, edges = [[0,1],[1,2],[0,3]], labels = "bbbb"
     Output: [4,2,1,1]
@@ -25,6 +29,8 @@ A subtree of a tree T is the tree consisting of a node in T and all of its desce
     The sub-tree of node 0 contains nodes 0, 1, 2 and 3, all with label 'b', thus the answer is 4.
 
 ##### Example 3:
+
+![image](https://user-images.githubusercontent.com/36387585/212055715-dcedabc1-bd76-4a75-8b42-9eb12334d9fa.png)
 
     Input: n = 5, edges = [[0,1],[0,2],[1,3],[0,4]], labels = "aabab"
     Output: [3,2,1,1,1]
