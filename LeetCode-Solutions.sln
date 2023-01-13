@@ -312,6 +312,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfNodesInTheSub-TreeW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests", "Medium\1519. Number of Nodes in the Sub-Tree With the Same Label\NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests\NumberOfNodesInTheSub-TreeWithTheSameLabel.Tests.csproj", "{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2246. Longest Path With Different Adjacent Characters", "2246. Longest Path With Different Adjacent Characters", "{5DEABD84-3CFB-4964-A76C-2F6B9436DE4E}"
+	ProjectSection(SolutionItems) = preProject
+		Hard\2246. Longest Path With Different Adjacent Characters\README.md = Hard\2246. Longest Path With Different Adjacent Characters\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPathWithDifferentAdjacentCharacters", "Hard\2246. Longest Path With Different Adjacent Characters\LongestPathWithDifferentAdjacentCharacters\LongestPathWithDifferentAdjacentCharacters.csproj", "{5AA19E31-1751-462B-86B8-784D9793DBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPathWithDifferentAdjacentCharacters.Tests", "Hard\2246. Longest Path With Different Adjacent Characters\LongestPathWithDifferentAdjacentCharacters.Tests\LongestPathWithDifferentAdjacentCharacters.Tests.csproj", "{8E67518A-236E-475F-B23F-C433BC362333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -420,6 +429,9 @@ Global
 		{BC322E94-DDD1-45A7-A67C-07ACF669EFF4} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{8D52BC3F-E2AA-42B4-B963-AB83A7DC8460} = {BC322E94-DDD1-45A7-A67C-07ACF669EFF4}
 		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB} = {BC322E94-DDD1-45A7-A67C-07ACF669EFF4}
+		{5DEABD84-3CFB-4964-A76C-2F6B9436DE4E} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
+		{5AA19E31-1751-462B-86B8-784D9793DBB2} = {5DEABD84-3CFB-4964-A76C-2F6B9436DE4E}
+		{8E67518A-236E-475F-B23F-C433BC362333} = {5DEABD84-3CFB-4964-A76C-2F6B9436DE4E}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -694,5 +706,13 @@ Global
 		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA19E31-1751-462B-86B8-784D9793DBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA19E31-1751-462B-86B8-784D9793DBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA19E31-1751-462B-86B8-784D9793DBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA19E31-1751-462B-86B8-784D9793DBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E67518A-236E-475F-B23F-C433BC362333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E67518A-236E-475F-B23F-C433BC362333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E67518A-236E-475F-B23F-C433BC362333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E67518A-236E-475F-B23F-C433BC362333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
