@@ -8,12 +8,16 @@ Return the length of the longest path in the tree such that no pair of adjacent 
 
 ##### Example 1:
 
+![image](https://user-images.githubusercontent.com/36387585/212415623-851d9b65-9b36-414b-a224-a739dd6dd5a5.png)
+
     Input: parent = [-1,0,0,1,1,2], s = "abacbe"
     Output: 3
     Explanation: The longest path where each two adjacent nodes have different characters in the tree is the path: 0 -> 1 -> 3. The length of this path is 3, so 3 is returned.
     It can be proven that there is no longer path that satisfies the conditions.
 
 ##### Example 2:
+
+![image](https://user-images.githubusercontent.com/36387585/212415635-5b3eb1ac-725c-43c7-932c-3a84e6fcb557.png)
 
     Input: parent = [-1,0,0,0], s = "aabc"
     Output: 3
