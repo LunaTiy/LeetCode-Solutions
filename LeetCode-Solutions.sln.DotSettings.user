@@ -2,7 +2,12 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.0\ref\net7.0\Microsoft.CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1fb948e5_002D8178_002D44f1_002D9293_002D2e2a710823c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d68fe78_002Db866_002D48c5_002D9d58_002Dc265f2186bf9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1fb948e5_002D8178_002D44f1_002D9293_002D2e2a710823c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::F253608A-9057-4D20-B5B4-0A8BACEBD197::net7.0::BinaryTreePreorderTraversal.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::09315449-7219-4036-A8F5-9468CD2B9418::net7.0::SameTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
@@ -12,11 +17,17 @@
     &lt;TestId&gt;NUnit3x::0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB::net7.0::NumberOfNodesInTheSub_TreeWithTheSameLabel.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;

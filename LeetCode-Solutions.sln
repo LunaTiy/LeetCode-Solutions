@@ -321,6 +321,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPathWithDifferentAdj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPathWithDifferentAdjacentCharacters.Tests", "Hard\2246. Longest Path With Different Adjacent Characters\LongestPathWithDifferentAdjacentCharacters.Tests\LongestPathWithDifferentAdjacentCharacters.Tests.csproj", "{8E67518A-236E-475F-B23F-C433BC362333}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1061. Lexicographically Smallest Equivalent String", "1061. Lexicographically Smallest Equivalent String", "{3700DC32-4565-4B72-9D17-296706A608DA}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\1061. Lexicographically Smallest Equivalent String\README.md = Medium\1061. Lexicographically Smallest Equivalent String\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicallySmallestEquivalentString.Tests", "Medium\1061. Lexicographically Smallest Equivalent String\LexicographicallySmallestEquivalentString.Tests\LexicographicallySmallestEquivalentString.Tests.csproj", "{9CB8E007-F7F6-4272-AB46-D506AB762082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicallySmallestEquivalentString", "Medium\1061. Lexicographically Smallest Equivalent String\LexicographicallySmallestEquivalentString\LexicographicallySmallestEquivalentString.csproj", "{9591D4B4-6085-4780-9269-FE650252A352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -432,6 +441,9 @@ Global
 		{5DEABD84-3CFB-4964-A76C-2F6B9436DE4E} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
 		{5AA19E31-1751-462B-86B8-784D9793DBB2} = {5DEABD84-3CFB-4964-A76C-2F6B9436DE4E}
 		{8E67518A-236E-475F-B23F-C433BC362333} = {5DEABD84-3CFB-4964-A76C-2F6B9436DE4E}
+		{3700DC32-4565-4B72-9D17-296706A608DA} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{9CB8E007-F7F6-4272-AB46-D506AB762082} = {3700DC32-4565-4B72-9D17-296706A608DA}
+		{9591D4B4-6085-4780-9269-FE650252A352} = {3700DC32-4565-4B72-9D17-296706A608DA}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -714,5 +726,13 @@ Global
 		{8E67518A-236E-475F-B23F-C433BC362333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E67518A-236E-475F-B23F-C433BC362333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E67518A-236E-475F-B23F-C433BC362333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB8E007-F7F6-4272-AB46-D506AB762082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB8E007-F7F6-4272-AB46-D506AB762082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB8E007-F7F6-4272-AB46-D506AB762082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB8E007-F7F6-4272-AB46-D506AB762082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9591D4B4-6085-4780-9269-FE650252A352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9591D4B4-6085-4780-9269-FE650252A352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9591D4B4-6085-4780-9269-FE650252A352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9591D4B4-6085-4780-9269-FE650252A352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
