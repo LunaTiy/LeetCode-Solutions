@@ -14,6 +14,8 @@ Note that a path and its reverse are counted as the same path. For example, 0 ->
 
 ##### Example 1:
 
+![image](https://user-images.githubusercontent.com/36387585/212548296-97758cb0-7b80-4675-aa78-da0df7e07172.png)
+
     Input: vals = [1,3,2,1,3], edges = [[0,1],[0,2],[2,3],[2,4]]
     Output: 6
     Explanation: There are 5 good paths consisting of a single node.
@@ -23,12 +25,16 @@ Note that a path and its reverse are counted as the same path. For example, 0 ->
 
 ##### Example 2:
 
+![image](https://user-images.githubusercontent.com/36387585/212548303-bd0be50d-ed6d-4a52-b754-a92873643e17.png)
+
     Input: vals = [1,1,2,2,3], edges = [[0,1],[1,2],[2,3],[2,4]]
     Output: 7
     Explanation: There are 5 good paths consisting of a single node.
     There are 2 additional good paths: 0 -> 1 and 2 -> 3.
 
 ##### Example 3:
+
+![image](https://user-images.githubusercontent.com/36387585/212548321-cef1941a-3a79-427d-b0e9-d679bae7a226.png)
 
     Input: vals = [1], edges = []
     Output: 1
