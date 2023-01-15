@@ -330,6 +330,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicallySmallestEq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicallySmallestEquivalentString", "Medium\1061. Lexicographically Smallest Equivalent String\LexicographicallySmallestEquivalentString\LexicographicallySmallestEquivalentString.csproj", "{9591D4B4-6085-4780-9269-FE650252A352}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2421. Number of Good Paths", "2421. Number of Good Paths", "{AAF5C34D-2174-4DDD-9784-9C059D303425}"
+	ProjectSection(SolutionItems) = preProject
+		Hard\2421. Number of Good Paths\README.md = Hard\2421. Number of Good Paths\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPaths", "Hard\2421. Number of Good Paths\NumberOfGoodPaths\NumberOfGoodPaths.csproj", "{E8F5E0EF-6484-4130-98CD-B8854D421E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPaths.Tests", "Hard\2421. Number of Good Paths\NumberOfGoodPaths.Tests\NumberOfGoodPaths.Tests.csproj", "{B6437483-0AA2-4A76-9B6B-93C63029F4D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -444,6 +453,9 @@ Global
 		{3700DC32-4565-4B72-9D17-296706A608DA} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{9CB8E007-F7F6-4272-AB46-D506AB762082} = {3700DC32-4565-4B72-9D17-296706A608DA}
 		{9591D4B4-6085-4780-9269-FE650252A352} = {3700DC32-4565-4B72-9D17-296706A608DA}
+		{AAF5C34D-2174-4DDD-9784-9C059D303425} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
+		{E8F5E0EF-6484-4130-98CD-B8854D421E60} = {AAF5C34D-2174-4DDD-9784-9C059D303425}
+		{B6437483-0AA2-4A76-9B6B-93C63029F4D6} = {AAF5C34D-2174-4DDD-9784-9C059D303425}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -734,5 +746,13 @@ Global
 		{9591D4B4-6085-4780-9269-FE650252A352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9591D4B4-6085-4780-9269-FE650252A352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9591D4B4-6085-4780-9269-FE650252A352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F5E0EF-6484-4130-98CD-B8854D421E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F5E0EF-6484-4130-98CD-B8854D421E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F5E0EF-6484-4130-98CD-B8854D421E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F5E0EF-6484-4130-98CD-B8854D421E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
