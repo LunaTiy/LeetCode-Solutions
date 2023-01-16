@@ -339,6 +339,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPaths", "Hard\2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPaths.Tests", "Hard\2421. Number of Good Paths\NumberOfGoodPaths.Tests\NumberOfGoodPaths.Tests.csproj", "{B6437483-0AA2-4A76-9B6B-93C63029F4D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "57. Insert Interval", "57. Insert Interval", "{2D832961-00FA-4F3E-8224-0884E5849719}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\57. Insert Interval\README.md = Medium\57. Insert Interval\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertInterval.Tests", "Medium\57. Insert Interval\InsertInterval.Tests\InsertInterval.Tests.csproj", "{97FF61FB-E5D2-4EED-9A0F-66B542C54E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertInterval", "Medium\57. Insert Interval\InsertInterval\InsertInterval.csproj", "{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -456,6 +465,9 @@ Global
 		{AAF5C34D-2174-4DDD-9784-9C059D303425} = {547967A9-010C-4AFD-8A71-2D3D47EEBE8D}
 		{E8F5E0EF-6484-4130-98CD-B8854D421E60} = {AAF5C34D-2174-4DDD-9784-9C059D303425}
 		{B6437483-0AA2-4A76-9B6B-93C63029F4D6} = {AAF5C34D-2174-4DDD-9784-9C059D303425}
+		{2D832961-00FA-4F3E-8224-0884E5849719} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{97FF61FB-E5D2-4EED-9A0F-66B542C54E75} = {2D832961-00FA-4F3E-8224-0884E5849719}
+		{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8} = {2D832961-00FA-4F3E-8224-0884E5849719}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -754,5 +766,13 @@ Global
 		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6437483-0AA2-4A76-9B6B-93C63029F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FF61FB-E5D2-4EED-9A0F-66B542C54E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FF61FB-E5D2-4EED-9A0F-66B542C54E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FF61FB-E5D2-4EED-9A0F-66B542C54E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FF61FB-E5D2-4EED-9A0F-66B542C54E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC4E152-F4F0-4D3C-9E5D-023244B93EF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

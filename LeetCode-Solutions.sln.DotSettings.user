@@ -16,13 +16,12 @@
     &lt;TestId&gt;NUnit3x::09315449-7219-4036-A8F5-9468CD2B9418::net7.0::SameTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BF2D6CA5-C383-4413-B6AE-896491D81B53::net7.0::MinimumTimeToCollectAllApplesInTree.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BF2D6CA5-C383-4413-B6AE-896491D81B53::net7.0::MinimumTimeToCollectAllApplesInTree.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB::net7.0::NumberOfNodesInTheSub_TreeWithTheSameLabel.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::0BD0C339-C4DC-4917-A01C-B9DA4F17C9DB::net7.0::NumberOfNodesInTheSub_TreeWithTheSameLabel.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test3&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97FF61FB-E5D2-4EED-9A0F-66B542C54E75::net7.0::InsertInterval.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e61b371_002Def07_002D46d8_002D9c97_002D8f4f5b552201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::97FF61FB-E5D2-4EED-9A0F-66B542C54E75::net7.0::InsertInterval.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
