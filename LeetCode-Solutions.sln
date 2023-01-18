@@ -357,6 +357,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipStringToMonotoneIncreas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipStringToMonotoneIncreasing.Tests", "Medium\926. Flip String to Monotone Increasing\FlipStringToMonotoneIncreasing.Tests\FlipStringToMonotoneIncreasing.Tests.csproj", "{55EB6878-CE35-4A34-BC63-50B649D633F3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "918. Maximum Sum Circular Subarray", "918. Maximum Sum Circular Subarray", "{58F03BC5-66FD-4EB9-BFD1-F0A8CC311127}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\918. Maximum Sum Circular Subarray\README.md = Medium\918. Maximum Sum Circular Subarray\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSumCircularSubarray", "Medium\918. Maximum Sum Circular Subarray\MaximumSumCircularSubarray\MaximumSumCircularSubarray.csproj", "{E05972AF-565F-49DD-9D87-84339BAFD39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSumCircularSubarray.Tests", "Medium\918. Maximum Sum Circular Subarray\MaximumSumCircularSubarray.Tests\MaximumSumCircularSubarray.Tests.csproj", "{FC7E292A-0382-47F8-A722-82DE9CD50767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -480,6 +489,9 @@ Global
 		{71B0B967-1426-448C-9EC5-51479C1AD1B0} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{AAF0FEEC-174B-4E1B-BF81-6DFCCFA97849} = {71B0B967-1426-448C-9EC5-51479C1AD1B0}
 		{55EB6878-CE35-4A34-BC63-50B649D633F3} = {71B0B967-1426-448C-9EC5-51479C1AD1B0}
+		{58F03BC5-66FD-4EB9-BFD1-F0A8CC311127} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{E05972AF-565F-49DD-9D87-84339BAFD39B} = {58F03BC5-66FD-4EB9-BFD1-F0A8CC311127}
+		{FC7E292A-0382-47F8-A722-82DE9CD50767} = {58F03BC5-66FD-4EB9-BFD1-F0A8CC311127}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -794,5 +806,13 @@ Global
 		{55EB6878-CE35-4A34-BC63-50B649D633F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55EB6878-CE35-4A34-BC63-50B649D633F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55EB6878-CE35-4A34-BC63-50B649D633F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05972AF-565F-49DD-9D87-84339BAFD39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05972AF-565F-49DD-9D87-84339BAFD39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05972AF-565F-49DD-9D87-84339BAFD39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05972AF-565F-49DD-9D87-84339BAFD39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7E292A-0382-47F8-A722-82DE9CD50767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E292A-0382-47F8-A722-82DE9CD50767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E292A-0382-47F8-A722-82DE9CD50767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E292A-0382-47F8-A722-82DE9CD50767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
