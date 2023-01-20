@@ -366,6 +366,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarraySumsDivisibleByK", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarraySumsDivisibleByK.Tests", "Medium\974. Subarray Sums Divisible by K\SubarraySumsDivisibleByK.Tests\SubarraySumsDivisibleByK.Tests.csproj", "{71E3BD73-1FFF-4B5C-BAE4-D773D938F005}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "491. Non-decreasing Subsequences", "491. Non-decreasing Subsequences", "{6B629055-3BE0-4AD0-AF07-334CD34C8042}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\491. Non-decreasing Subsequences\README.md = Medium\491. Non-decreasing Subsequences\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-decreasingSubsequences", "Medium\491. Non-decreasing Subsequences\Non-decreasingSubsequences\Non-decreasingSubsequences.csproj", "{977E1830-9B64-4A6C-B58B-725440FAFDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-decreasingSubsequences.Tests", "Medium\491. Non-decreasing Subsequences\Non-decreasingSubsequences.Tests\Non-decreasingSubsequences.Tests.csproj", "{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -492,6 +501,9 @@ Global
 		{7E42AD40-3069-4D8A-8893-47DD4E0C2386} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{B85A5B6C-DF78-4BE7-85DD-45B11E71DCF5} = {7E42AD40-3069-4D8A-8893-47DD4E0C2386}
 		{71E3BD73-1FFF-4B5C-BAE4-D773D938F005} = {7E42AD40-3069-4D8A-8893-47DD4E0C2386}
+		{6B629055-3BE0-4AD0-AF07-334CD34C8042} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{977E1830-9B64-4A6C-B58B-725440FAFDC8} = {6B629055-3BE0-4AD0-AF07-334CD34C8042}
+		{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84} = {6B629055-3BE0-4AD0-AF07-334CD34C8042}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -814,5 +826,13 @@ Global
 		{71E3BD73-1FFF-4B5C-BAE4-D773D938F005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E3BD73-1FFF-4B5C-BAE4-D773D938F005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E3BD73-1FFF-4B5C-BAE4-D773D938F005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977E1830-9B64-4A6C-B58B-725440FAFDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977E1830-9B64-4A6C-B58B-725440FAFDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977E1830-9B64-4A6C-B58B-725440FAFDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977E1830-9B64-4A6C-B58B-725440FAFDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
