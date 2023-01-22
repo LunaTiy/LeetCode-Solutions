@@ -384,6 +384,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoreIPAddresses", "Mediu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoreIPAddresses.Tests", "Medium\93. Restore IP Addresses\RestoreIPAddresses.Tests\RestoreIPAddresses.Tests.csproj", "{6F921C72-CBD8-40C1-ABCC-1AA5EFD8EB71}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "131. Palindrome Partitioning", "131. Palindrome Partitioning", "{AA20B587-81A8-4EF3-A05E-A95980F020EF}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\131. Palindrome Partitioning\README.md = Medium\131. Palindrome Partitioning\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioning", "Medium\131. Palindrome Partitioning\PalindromePartitioning\PalindromePartitioning.csproj", "{77906C3A-04FA-4916-8AD2-36C81BFC5641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioning.Tests", "Medium\131. Palindrome Partitioning\PalindromePartitioning.Tests\PalindromePartitioning.Tests.csproj", "{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -516,6 +525,9 @@ Global
 		{3475CE9C-F20C-4749-9352-A844379F0228} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{0C71E836-CE3F-4AC2-ADC1-5E2931FC5F73} = {3475CE9C-F20C-4749-9352-A844379F0228}
 		{6F921C72-CBD8-40C1-ABCC-1AA5EFD8EB71} = {3475CE9C-F20C-4749-9352-A844379F0228}
+		{AA20B587-81A8-4EF3-A05E-A95980F020EF} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{77906C3A-04FA-4916-8AD2-36C81BFC5641} = {AA20B587-81A8-4EF3-A05E-A95980F020EF}
+		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23} = {AA20B587-81A8-4EF3-A05E-A95980F020EF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -854,5 +866,13 @@ Global
 		{6F921C72-CBD8-40C1-ABCC-1AA5EFD8EB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F921C72-CBD8-40C1-ABCC-1AA5EFD8EB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F921C72-CBD8-40C1-ABCC-1AA5EFD8EB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77906C3A-04FA-4916-8AD2-36C81BFC5641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77906C3A-04FA-4916-8AD2-36C81BFC5641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77906C3A-04FA-4916-8AD2-36C81BFC5641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77906C3A-04FA-4916-8AD2-36C81BFC5641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
