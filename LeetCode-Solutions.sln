@@ -393,6 +393,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioning", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioning.Tests", "Medium\131. Palindrome Partitioning\PalindromePartitioning.Tests\PalindromePartitioning.Tests.csproj", "{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2542. Maximum Subsequence Score", "2542. Maximum Subsequence Score", "{1D092FA0-94B2-4537-B21C-25BA55B76047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubsequenceScore", "Medium\2542. Maximum Subsequence Score\MaximumSubsequenceScore\MaximumSubsequenceScore.csproj", "{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubsequenceScore.Tests", "Medium\2542. Maximum Subsequence Score\MaximumSubsequenceScore.Tests\MaximumSubsequenceScore.Tests.csproj", "{4A66137C-1888-4824-97F1-CEF3229FD2E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "997. Find the Town Judge", "997. Find the Town Judge", "{9C00F84E-ED6D-444D-940E-770958DDBDF8}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\997. Find the Town Judge\README.md = Easy\997. Find the Town Judge\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheTownJudge", "Easy\997. Find the Town Judge\FindTheTownJudge\FindTheTownJudge.csproj", "{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheTownJudge.Tests", "Easy\997. Find the Town Judge\FindTheTownJudge.Tests\FindTheTownJudge.Tests.csproj", "{C96881D2-A4D3-4EB0-B75E-D32E5A127996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -528,6 +543,12 @@ Global
 		{AA20B587-81A8-4EF3-A05E-A95980F020EF} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{77906C3A-04FA-4916-8AD2-36C81BFC5641} = {AA20B587-81A8-4EF3-A05E-A95980F020EF}
 		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23} = {AA20B587-81A8-4EF3-A05E-A95980F020EF}
+		{1D092FA0-94B2-4537-B21C-25BA55B76047} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD} = {1D092FA0-94B2-4537-B21C-25BA55B76047}
+		{4A66137C-1888-4824-97F1-CEF3229FD2E4} = {1D092FA0-94B2-4537-B21C-25BA55B76047}
+		{9C00F84E-ED6D-444D-940E-770958DDBDF8} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F} = {9C00F84E-ED6D-444D-940E-770958DDBDF8}
+		{C96881D2-A4D3-4EB0-B75E-D32E5A127996} = {9C00F84E-ED6D-444D-940E-770958DDBDF8}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -874,5 +895,21 @@ Global
 		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A66137C-1888-4824-97F1-CEF3229FD2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A66137C-1888-4824-97F1-CEF3229FD2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A66137C-1888-4824-97F1-CEF3229FD2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A66137C-1888-4824-97F1-CEF3229FD2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0171B361-BE63-4A58-B9B5-C5F5CA6BB35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96881D2-A4D3-4EB0-B75E-D32E5A127996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96881D2-A4D3-4EB0-B75E-D32E5A127996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96881D2-A4D3-4EB0-B75E-D32E5A127996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96881D2-A4D3-4EB0-B75E-D32E5A127996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
