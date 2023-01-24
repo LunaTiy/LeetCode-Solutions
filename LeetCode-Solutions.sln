@@ -394,6 +394,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitioning.Tests", "Medium\131. Palindrome Partitioning\PalindromePartitioning.Tests\PalindromePartitioning.Tests.csproj", "{5BF0FC45-6FDC-402C-9F97-31F2073ECC23}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2542. Maximum Subsequence Score", "2542. Maximum Subsequence Score", "{1D092FA0-94B2-4537-B21C-25BA55B76047}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\2542. Maximum Subsequence Score\README.md = Medium\2542. Maximum Subsequence Score\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubsequenceScore", "Medium\2542. Maximum Subsequence Score\MaximumSubsequenceScore\MaximumSubsequenceScore.csproj", "{CDE6DC0F-4BC6-4EAF-8E02-6A755069C7AD}"
 EndProject
