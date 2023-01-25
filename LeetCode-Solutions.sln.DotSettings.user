@@ -26,12 +26,13 @@
     &lt;TestId&gt;NUnit3x::97FF61FB-E5D2-4EED-9A0F-66B542C54E75::net7.0::InsertInterval.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e61b371_002Def07_002D46d8_002D9c97_002D8f4f5b552201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e61b371_002Def07_002D46d8_002D9c97_002D8f4f5b552201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::55EB6878-CE35-4A34-BC63-50B649D633F3::net6.0::FlipStringToMonotoneIncreasing.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84::net7.0::Non_decreasingSubsequences.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::5BF0FC45-6FDC-402C-9F97-31F2073ECC23::net7.0::PalindromePartitioning.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C96881D2-A4D3-4EB0-B75E-D32E5A127996::net7.0::FindTheTownJudge.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
@@ -43,9 +44,11 @@
     &lt;TestId&gt;NUnit3x::B6437483-0AA2-4A76-9B6B-93C63029F4D6::net7.0::NumberOfGoodPaths.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84::net7.0::Non_decreasingSubsequences.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
