@@ -43,6 +43,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79e5eee6_002De9e2_002D4197_002Dbd5c_002Dc9fe1bea8582/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::27F9BA4E-EA3A-4728-B592-C36C0BB19122::net7.0::N_thTribonacciNumber.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F1A8578-1500-4C35-8687-B8CD6E60D16C::net7.0::BestTeamWithNoConflicts.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
