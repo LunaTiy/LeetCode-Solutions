@@ -26,6 +26,11 @@
     &lt;TestId&gt;NUnit3x::97FF61FB-E5D2-4EED-9A0F-66B542C54E75::net7.0::InsertInterval.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2179fd13_002Df793_002D4df8_002Dad71_002Ded5f7d441f22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SolutionTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::27F9BA4E-EA3A-4728-B592-C36C0BB19122::net7.0::N_thTribonacciNumber.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e61b371_002Def07_002D46d8_002D9c97_002D8f4f5b552201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::55EB6878-CE35-4A34-BC63-50B649D633F3::net6.0::FlipStringToMonotoneIncreasing.Tests.SolutionTests&lt;/TestId&gt;&#xD;
@@ -35,7 +40,12 @@
     &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79e5eee6_002De9e2_002D4197_002Dbd5c_002Dc9fe1bea8582/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::27F9BA4E-EA3A-4728-B592-C36C0BB19122::net7.0::N_thTribonacciNumber.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afad28ac_002D1226_002D4b5c_002D9ef1_002Db8f386bf02ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::8E67518A-236E-475F-B23F-C433BC362333::net7.0::LongestPathWithDifferentAdjacentCharacters.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
@@ -43,6 +53,7 @@
     &lt;TestId&gt;NUnit3x::9CB8E007-F7F6-4272-AB46-D506AB762082::net7.0::LexicographicallySmallestEquivalentString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B6437483-0AA2-4A76-9B6B-93C63029F4D6::net7.0::NumberOfGoodPaths.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::782589A6-F8F3-4E02-A261-5538DB28A84F::net7.0::ConcatenatedWords.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::27F9BA4E-EA3A-4728-B592-C36C0BB19122::net7.0::N_thTribonacciNumber.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
