@@ -2,19 +2,25 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.0\ref\net7.0\Microsoft.CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	
-	
-	
-	
-	
-	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02a77d25_002D3d33_002D431c_002Da407_002D7a94e26c0431/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::848FBA94-DFA2-45F4-BDE3-E2B27CF5FC84::net7.0::Non_decreasingSubsequences.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::E205A67C-860A-4DAC-8918-9F9C2C6AE036::net7.0::FindClosestNodeToGivenTwoNodes.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::782589A6-F8F3-4E02-A261-5538DB28A84F::net7.0::ConcatenatedWords.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::68E36FF9-4AF2-494C-896A-BA2153D00D75::net7.0::LFUCache.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F05670C1-3612-450E-9433-421DE3F0D328::net7.0::SpiralMatrixII.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b7eb885_002Da691_002D4f11_002Da2ff_002Ddaf9b79b4b85/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F05670C1-3612-450E-9433-421DE3F0D328::net7.0::SpiralMatrixII.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bfadf110_002D11a7_002D491c_002Db986_002De9c7d5e0d41d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F05670C1-3612-450E-9433-421DE3F0D328::net7.0::SpiralMatrixII.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
