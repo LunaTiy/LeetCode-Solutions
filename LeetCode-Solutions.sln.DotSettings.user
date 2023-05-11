@@ -9,7 +9,8 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b7eb885_002Da691_002D4f11_002Da2ff_002Ddaf9b79b4b85/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::F05670C1-3612-450E-9433-421DE3F0D328::net7.0::SpiralMatrixII.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4::net7.0::UncrossedLines.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4::net7.0::UncrossedLines.Tests.SolutionTests.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
