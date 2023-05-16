@@ -474,6 +474,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncrossedLines", "Medium\10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncrossedLines.Tests", "Medium\1035. Uncrossed Lines\UncrossedLines.Tests\UncrossedLines.Tests.csproj", "{F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "24. Swap Nodes in Pairs", "24. Swap Nodes in Pairs", "{564A4CBF-21E9-463D-BEBE-7F5DAA8E466E}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\24. Swap Nodes in Pairs\README.md = Medium\24. Swap Nodes in Pairs\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodeInPairs", "Medium\24. Swap Nodes in Pairs\SwapNodeInPairs\SwapNodeInPairs.csproj", "{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodeInPairs.Tests", "Medium\24. Swap Nodes in Pairs\SwapNodeInPairs.Tests\SwapNodeInPairs.Tests.csproj", "{ED590E48-467C-4BE7-8272-6028561A2128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -636,6 +645,9 @@ Global
 		{A8A773DC-C2CF-4574-8AB6-DA478A476B0F} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{3CA7A433-C9FE-4049-B151-2BC33701AEB0} = {A8A773DC-C2CF-4574-8AB6-DA478A476B0F}
 		{F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4} = {A8A773DC-C2CF-4574-8AB6-DA478A476B0F}
+		{564A4CBF-21E9-463D-BEBE-7F5DAA8E466E} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F} = {564A4CBF-21E9-463D-BEBE-7F5DAA8E466E}
+		{ED590E48-467C-4BE7-8272-6028561A2128} = {564A4CBF-21E9-463D-BEBE-7F5DAA8E466E}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1054,5 +1066,13 @@ Global
 		{F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BEE6EA-B7A6-4E87-868B-14BD177ED3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D6E517-EE3A-4F12-8364-FB4317EFDD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED590E48-467C-4BE7-8272-6028561A2128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED590E48-467C-4BE7-8272-6028561A2128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED590E48-467C-4BE7-8272-6028561A2128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED590E48-467C-4BE7-8272-6028561A2128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
