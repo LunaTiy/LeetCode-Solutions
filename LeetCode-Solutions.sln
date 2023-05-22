@@ -483,7 +483,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodeInPairs", "Medium\2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodeInPairs.Tests", "Medium\24. Swap Nodes in Pairs\SwapNodeInPairs.Tests\SwapNodeInPairs.Tests.csproj", "{ED590E48-467C-4BE7-8272-6028561A2128}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1768. Merge Strings Alternately ", "1768. Merge Strings Alternately ", "{32231A0A-CCC7-4D4D-A4C8-AD11FFBCBAC8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately", "{32231A0A-CCC7-4D4D-A4C8-AD11FFBCBAC8}"
 	ProjectSection(SolutionItems) = preProject
 		Easy\1768. Merge Strings Alternately\README.md = Easy\1768. Merge Strings Alternately\README.md
 	EndProjectSection
@@ -491,6 +491,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStringsAlternately", "Easy\1768. Merge Strings Alternately\MergeStringsAlternately\MergeStringsAlternately.csproj", "{D907FAD9-F29B-4DCE-968B-F430B85F3BA1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStringsAlternately.Tests", "Easy\1768. Merge Strings Alternately\MergeStringsAlternately.Tests\MergeStringsAlternately.Tests.csproj", "{9FB57779-F09F-4AC4-9FD3-0F8EC9A9FBF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1071. Greatest Common Divisor of Strings", "1071. Greatest Common Divisor of Strings", "{E82A75B6-F0E4-4961-9166-952732085029}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\1071. Greatest Common Divisor of Strings\README.md = Easy\1071. Greatest Common Divisor of Strings\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStrings.Tests", "Easy\1071. Greatest Common Divisor of Strings\GreatestCommonDivisorOfStrings.Tests\GreatestCommonDivisorOfStrings.Tests.csproj", "{16BB1569-0C32-4E50-A0C3-6D29609B8BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStrings", "Easy\1071. Greatest Common Divisor of Strings\GreatestCommonDivisorOfStrings\GreatestCommonDivisorOfStrings.csproj", "{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -660,6 +669,9 @@ Global
 		{32231A0A-CCC7-4D4D-A4C8-AD11FFBCBAC8} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{D907FAD9-F29B-4DCE-968B-F430B85F3BA1} = {32231A0A-CCC7-4D4D-A4C8-AD11FFBCBAC8}
 		{9FB57779-F09F-4AC4-9FD3-0F8EC9A9FBF2} = {32231A0A-CCC7-4D4D-A4C8-AD11FFBCBAC8}
+		{E82A75B6-F0E4-4961-9166-952732085029} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE} = {E82A75B6-F0E4-4961-9166-952732085029}
+		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58} = {E82A75B6-F0E4-4961-9166-952732085029}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1094,5 +1106,13 @@ Global
 		{9FB57779-F09F-4AC4-9FD3-0F8EC9A9FBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB57779-F09F-4AC4-9FD3-0F8EC9A9FBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB57779-F09F-4AC4-9FD3-0F8EC9A9FBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
