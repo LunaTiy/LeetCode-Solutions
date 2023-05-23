@@ -501,6 +501,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStrings", "Easy\1071. Greatest Common Divisor of Strings\GreatestCommonDivisorOfStrings\GreatestCommonDivisorOfStrings.csproj", "{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies", "{8E8F2CDB-3347-4734-9D11-38EB94C4AA42}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\1431. Kids With the Greatest Number of Candies\README.md = Easy\1431. Kids With the Greatest Number of Candies\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KidsWithTheGreatestNumberOfCandies", "Easy\1431. Kids With the Greatest Number of Candies\KidsWithTheGreatestNumberOfCandies\KidsWithTheGreatestNumberOfCandies.csproj", "{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KidsWithTheGreatestNumberOfCandies.Tests", "Easy\1431. Kids With the Greatest Number of Candies\KidsWithTheGreatestNumberOfCandies.Tests\KidsWithTheGreatestNumberOfCandies.Tests.csproj", "{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -672,6 +681,9 @@ Global
 		{E82A75B6-F0E4-4961-9166-952732085029} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{16BB1569-0C32-4E50-A0C3-6D29609B8BCE} = {E82A75B6-F0E4-4961-9166-952732085029}
 		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58} = {E82A75B6-F0E4-4961-9166-952732085029}
+		{8E8F2CDB-3347-4734-9D11-38EB94C4AA42} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC} = {8E8F2CDB-3347-4734-9D11-38EB94C4AA42}
+		{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7} = {8E8F2CDB-3347-4734-9D11-38EB94C4AA42}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1114,5 +1126,13 @@ Global
 		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D5E080A-7578-4E0A-9DB3-CE3C14925E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9CD887-FDF3-4EAE-BC96-CA5DD9AB85BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
