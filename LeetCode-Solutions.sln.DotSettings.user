@@ -2,19 +2,13 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.0\ref\net7.0\Microsoft.CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02a77d25_002D3d33_002D431c_002Da407_002D7a94e26c0431/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee392eb4_002D5510_002D4bb8_002Db03e_002D8e534cba41c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::ED590E48-467C-4BE7-8272-6028561A2128::net7.0::SwapNodeInPairs.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::1CA500B4-F17F-40B4-B4E3-F07AECF8BCE7::net7.0::KidsWithTheGreatestNumberOfCandies.Tests.SolutionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68BBA84E-3231-44E4-AAD9-124E947C4708::net7.0::ReverseVowelsOfString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d990918c_002Dcbe0_002D405c_002D827f_002Da5ee139bbf9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::16BB1569-0C32-4E50-A0C3-6D29609B8BCE::net7.0::GreatestCommonDivisorOfStrings.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::806F2F73-1C2F-4BCF-BF52-8D40A87BC51A::net7.0::CanPlaceFlowers.Tests.SolutionTests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::806F2F73-1C2F-4BCF-BF52-8D40A87BC51A::net7.0::CanPlaceFlowers.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
 	
 	
 	
