@@ -6,6 +6,8 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::68BBA84E-3231-44E4-AAD9-124E947C4708::net7.0::ReverseVowelsOfString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D763459E-DEDB-4F7C-9989-D606F0D764F8::net7.0::ReverseWordsInString.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA::net7.0::ProductOfArrayExceptSelf.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA::net7.0::ProductOfArrayExceptSelf.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	

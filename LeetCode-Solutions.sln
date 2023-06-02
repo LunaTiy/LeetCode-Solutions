@@ -537,6 +537,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInString.Tests"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInString", "Medium\151. Reverse Words in a String\ReverseWordsInString\ReverseWordsInString.csproj", "{33DE6373-6CE0-4E14-9B4B-C3D5932C47C7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "238. Product of Array Except Self", "238. Product of Array Except Self", "{A27EA27B-6ADE-4E92-BCC2-B8C89CC00BFB}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\238. Product of Array Except Self\README.md = Medium\238. Product of Array Except Self\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", "Medium\238. Product of Array Except Self\ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{384F08BE-630C-487B-8B13-081905526A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf.Tests", "Medium\238. Product of Array Except Self\ProductOfArrayExceptSelf.Tests\ProductOfArrayExceptSelf.Tests.csproj", "{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -720,6 +729,9 @@ Global
 		{ECC22F64-EC8E-4999-9311-4959C577E37E} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
 		{D763459E-DEDB-4F7C-9989-D606F0D764F8} = {ECC22F64-EC8E-4999-9311-4959C577E37E}
 		{33DE6373-6CE0-4E14-9B4B-C3D5932C47C7} = {ECC22F64-EC8E-4999-9311-4959C577E37E}
+		{A27EA27B-6ADE-4E92-BCC2-B8C89CC00BFB} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{384F08BE-630C-487B-8B13-081905526A93} = {A27EA27B-6ADE-4E92-BCC2-B8C89CC00BFB}
+		{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA} = {A27EA27B-6ADE-4E92-BCC2-B8C89CC00BFB}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1194,5 +1206,13 @@ Global
 		{33DE6373-6CE0-4E14-9B4B-C3D5932C47C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33DE6373-6CE0-4E14-9B4B-C3D5932C47C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33DE6373-6CE0-4E14-9B4B-C3D5932C47C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384F08BE-630C-487B-8B13-081905526A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384F08BE-630C-487B-8B13-081905526A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384F08BE-630C-487B-8B13-081905526A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384F08BE-630C-487B-8B13-081905526A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
