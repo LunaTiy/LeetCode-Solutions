@@ -564,6 +564,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsStraightLine", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsStraightLine.Tests", "Easy\1232. Check If It Is a Straight Line\CheckIfItIsStraightLine.Tests\CheckIfItIsStraightLine.Tests.csproj", "{82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence", "{7B5B9DC6-0612-4F7F-A08D-BB958C541C61}"
+	ProjectSection(SolutionItems) = preProject
+		Easy\1502. Can Make Arithmetic Progression From Sequence\README.md = Easy\1502. Can Make Arithmetic Progression From Sequence\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgressionFromSequence.Tests", "Easy\1502. Can Make Arithmetic Progression From Sequence\CanMakeArithmeticProgressionFromSequence.Tests\CanMakeArithmeticProgressionFromSequence.Tests.csproj", "{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgressionFromSequence", "Easy\1502. Can Make Arithmetic Progression From Sequence\CanMakeArithmeticProgressionFromSequence\CanMakeArithmeticProgressionFromSequence.csproj", "{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -756,6 +765,9 @@ Global
 		{AFDE9463-0C24-4CF3-AA96-89373A54E7FD} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{AB10B043-F29F-43E1-A900-D4E3970CCF50} = {AFDE9463-0C24-4CF3-AA96-89373A54E7FD}
 		{82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05} = {AFDE9463-0C24-4CF3-AA96-89373A54E7FD}
+		{7B5B9DC6-0612-4F7F-A08D-BB958C541C61} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
+		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE} = {7B5B9DC6-0612-4F7F-A08D-BB958C541C61}
+		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B} = {7B5B9DC6-0612-4F7F-A08D-BB958C541C61}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1254,5 +1266,13 @@ Global
 		{82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
