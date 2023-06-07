@@ -573,6 +573,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgressio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgressionFromSequence", "Easy\1502. Can Make Arithmetic Progression From Sequence\CanMakeArithmeticProgressionFromSequence\CanMakeArithmeticProgressionFromSequence.csproj", "{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1318. Minimum Flips to Make a OR b Equal to c", "1318. Minimum Flips to Make a OR b Equal to c", "{B528607E-5207-4E25-8B38-0194CB532906}"
+	ProjectSection(SolutionItems) = preProject
+		Medium\1318. Minimum Flips to Make a OR b Equal to c\README.md = Medium\1318. Minimum Flips to Make a OR b Equal to c\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Flips to Make a OR b Equal to c", "Medium\1318. Minimum Flips to Make a OR b Equal to c\Minimum Flips to Make a OR b Equal to c\Minimum Flips to Make a OR b Equal to c.csproj", "{91C37F27-9BFD-4A2A-8688-C59EB7CE271A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Flips to Make a OR b Equal to c.Tests", "Medium\1318. Minimum Flips to Make a OR b Equal to c\Minimum Flips to Make a OR b Equal to c.Tests\Minimum Flips to Make a OR b Equal to c.Tests.csproj", "{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -768,6 +777,9 @@ Global
 		{7B5B9DC6-0612-4F7F-A08D-BB958C541C61} = {81E5774C-D5A5-4A67-86AD-91222C92D988}
 		{10EA95B7-8D7F-4C9D-8BF0-9B6F431CFFBE} = {7B5B9DC6-0612-4F7F-A08D-BB958C541C61}
 		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B} = {7B5B9DC6-0612-4F7F-A08D-BB958C541C61}
+		{B528607E-5207-4E25-8B38-0194CB532906} = {D36D72AA-1FCE-4A04-867F-8ADC59CDAD25}
+		{91C37F27-9BFD-4A2A-8688-C59EB7CE271A} = {B528607E-5207-4E25-8B38-0194CB532906}
+		{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2} = {B528607E-5207-4E25-8B38-0194CB532906}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A819BB2-78F2-41AC-910D-0C17D17FDAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -1274,5 +1286,13 @@ Global
 		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6D41BC-B458-49F3-828A-B7CA7DE0AC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C37F27-9BFD-4A2A-8688-C59EB7CE271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C37F27-9BFD-4A2A-8688-C59EB7CE271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C37F27-9BFD-4A2A-8688-C59EB7CE271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C37F27-9BFD-4A2A-8688-C59EB7CE271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

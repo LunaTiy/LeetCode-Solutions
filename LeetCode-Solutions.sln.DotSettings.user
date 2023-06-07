@@ -5,12 +5,7 @@
 	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee392eb4_002D5510_002D4bb8_002Db03e_002D8e534cba41c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::68BBA84E-3231-44E4-AAD9-124E947C4708::net7.0::ReverseVowelsOfString.Tests.SolutionTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::D763459E-DEDB-4F7C-9989-D606F0D764F8::net7.0::ReverseWordsInString.Tests.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA::net7.0::ProductOfArrayExceptSelf.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::529DC20D-1C02-4E8B-AF8B-5B95B28FBEDA::net7.0::ProductOfArrayExceptSelf.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::83B22762-559C-434C-8935-689753F5C0FB::net7.0::IncreasingTripletSubsequence.Tests.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::82D6F7F4-C165-4ADF-B3E0-0EC60BC91F05::net7.0::CheckIfItIsStraightLine.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2::net7.0::Minimum_Flips_to_Make_a_OR_b_Equal_to_c.Tests.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
