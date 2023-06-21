@@ -6,6 +6,10 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee392eb4_002D5510_002D4bb8_002Db03e_002D8e534cba41c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::2E8C396D-5A42-44DD-B2DA-0395E2C9FAD2::net7.0::Minimum_Flips_to_Make_a_OR_b_Equal_to_c.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1025463-FC4E-49BA-A8E0-F2220C9A31D4::net7.0::StringCompression.Tests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1025463-FC4E-49BA-A8E0-F2220C9A31D4::net7.0::StringCompression.Tests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1025463-FC4E-49BA-A8E0-F2220C9A31D4::net7.0::StringCompression.Tests.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1025463-FC4E-49BA-A8E0-F2220C9A31D4::net7.0::StringCompression.Tests.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
